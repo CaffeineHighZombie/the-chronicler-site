@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://tamil.perpetual.fyi/sitemap.xml
+Sitemap: https://www.perpetual.fyi/sitemap.xml
